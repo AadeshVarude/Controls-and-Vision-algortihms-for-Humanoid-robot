@@ -1,7 +1,7 @@
 Here in this repository we make three section for the Nimbro Humanoid robot.
-**- A) Controls and Trajectory Generation 
-- B) Edge Detection and Horizon Detection 
-- C) Object Detection using YOLOv4**
+- **A) Controls and Trajectory Generation** 
+- **B) Edge Detection and Horizon Detection**
+- **C) Object Detection using YOLOv4**
 
 **Controls and Trajectory Generation**
 We generate a stabalised trajectory for the COM trajectory and end effector of swing leg trajectory for the multiple step of biped walkig using 3DLIPM.
