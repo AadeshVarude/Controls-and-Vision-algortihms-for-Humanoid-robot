@@ -23,3 +23,11 @@ Later using the HSV masking method and Canny edge detection we detection the edg
 
 https://user-images.githubusercontent.com/50541542/189536314-99117499-b2f0-4ced-a9fc-46cb6b04283f.mp4
 
+**Object Detection using YOLOv4**
+Now on this horizon deteected video we implement the YOLOv4 model to detect the footaball.
+
+
+
+https://user-images.githubusercontent.com/50541542/189536533-3b465d77-683e-44ae-876a-e98503ca361d.mp4
+
+
